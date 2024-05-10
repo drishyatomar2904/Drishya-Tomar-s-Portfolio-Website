@@ -1,2 +1,2 @@
-# Drishya-Tomar-s-Portfolio-Website
+# Drishya-Tomar-Portfolio-Website
 My Portfolio
